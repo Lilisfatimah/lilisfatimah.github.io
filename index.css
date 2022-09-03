@@ -1,0 +1,35 @@
+body {
+	background-color: #f0efeb ;
+	font-family: monospace;
+	text-shadow: 2px 2px 4px; color: #362d26;
+	display: flex; justify-content: center; align-items: center;
+}
+
+.photo p {
+	box-align: center;
+	padding: 3px;
+}
+
+.text p {
+	text-align: center;
+	padding: 3px;
+	color: #362d26;
+	font-size: 21px;
+}
+
+.text a {
+	text-align: center;
+	color: #362d26;
+}
+
+img {
+	margin-top: 20px;
+	width: 100px;
+	height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 99cm;
+	box-shadow: 0px 0px 5px 5px;
+	color: #362d26;
+}
