@@ -1,29 +1,31 @@
 body {
 	background-color: #f0efeb ;
 	font-family: sans-serif;
+	margin-top: 100px;
 }
 
 .photo p {
-	box-align: center;
-	padding: 3px;
+	text-align: center;
+	padding: 5px;
+	color: #362d26;
+	font-size: 15px;
+	font-weight: normal;
+	text-decoration: none;
 }
 
-.text p {
+.photo a {
 	text-align: center;
-	padding: 3px;
 	color: #362d26;
-	font-size: 21px;
 }
 
-.text a {
+h1 {
 	text-align: center;
-	color: #362d26;
 }
 
 img {
-	margin-top: 20px;
-	width: 100px;
-	height: 100px;
+	margin-top: 30px;
+	width: 200px;
+	height: 200px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
