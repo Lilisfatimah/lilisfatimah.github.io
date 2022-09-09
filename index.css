@@ -1,8 +1,6 @@
 body {
 	background-color: #f0efeb ;
-	font-family: monospace;
-	text-shadow: 2px 2px 4px; color: #362d26;
-	display: flex; justify-content: center; align-items: center;
+	font-family: sans-serif;
 }
 
 .photo p {
@@ -32,4 +30,119 @@ img {
 	border-radius: 99cm;
 	box-shadow: 0px 0px 5px 5px;
 	color: #362d26;
+}
+
+.friends10 p { 
+	text-align: center;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #362d26;
+	font-size: 21px;
+	padding: 3px;
+	margin: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 25px;
+	background: #e6e0d2;
+	border-width: 4px;
+}
+
+.friends10 a {
+	text-decoration: none;
+	color: #362d26;
+}
+
+.friends5 p { 
+	text-align: center;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #362d26;
+	font-size: 21px;
+	padding: 3px;
+	margin: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 250px;
+	height: 25px;
+	background: #e6e0d2;
+	border-width: 4px;
+}
+
+.friends5 a {
+	text-decoration: none;
+	color: #362d26;
+}
+
+.friends10j p { 
+	text-align: center;
+	border-radius: 20px;
+	border-style: solid;
+	border-color: #362d26;
+	font-size: 21px;
+	padding: 3px;
+	margin: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+	height: 25px;
+	background: #e6e0d2;
+	border-width: 4px;
+}
+
+.friends10j a {
+	text-decoration: none;
+	color: #362d26;
+}
+
+.judul {
+	text-align: center;
+	color: black;
+}
+
+.tabel {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	border: 2px solid black;
+	text-align: center;
+	padding: 15px;
+}
+
+tr:nth-child(even) {
+	background-color: #e6e0d2;
+}
+
+th:hover {
+	background-color: #daeaf6;
+}
+
+td:hover {
+	background-color: #daeaf6;
+}
+
+.tabel-utama {
+	background-color: #b09171;
+	text-decoration: none;
+	color: black;
+}
+
+.Kembali-tablejquery {
+	margin-top: 40px;
+}
+
+.Kembali-tablejquery a {
+	border-color: #b09171;
+	font-size: 25px;
+	color: black;
+	padding: 5px 10px ;
+	text-decoration: none;
+	border-radius: 20px;
+}
+
+.Kembali-tablejquery a:hover {
+	background-color: #b09171;
 }
